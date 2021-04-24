@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikolicGoran
 - 👀 I’m interested in Java & Web dev.
 - 🌱 I’m currently learning Java & Web dev.
-- 💞️ I’m looking to collaborate on Our Homework
+- 💞️ I’m looking to collaborate on our Homework
 - 📫 How to reach me: Whatsapp
 
 <!---
